@@ -60,5 +60,5 @@
 @assetadd('jquery.nestable', 'vendor/newnet-admin/plugins/nestable2/jquery.nestable.min.js', ['jquery'])
 @assetadd('toastr', 'vendor/newnet-admin/plugins/toastr/toastr.min.js', ['jquery'])
 @assetadd('toastr', 'vendor/newnet-admin/plugins/toastr/toastr.css')
-@assetadd('dashboard-seting', 'vendor/newnet/dashboard/admin/js/dashboard-seting.js', ['jquery'])
-@assetadd('dashboard-seting', 'vendor/newnet/dashboard/admin/css/dashboard-seting.css')
+@assetadd('dashboard-seting', 'vendor/dashboard/admin/js/dashboard-seting.js', ['jquery'])
+@assetadd('dashboard-seting', 'vendor/dashboard/admin/css/dashboard-seting.css')
